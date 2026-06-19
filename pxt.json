@@ -1,0 +1,12 @@
+{
+    "name": "dimensioncraft",
+    "description": "Cool Minecraft-style features for MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "public": true
+}
